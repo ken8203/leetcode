@@ -13,3 +13,10 @@
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/remove-duplicates-from-sorted-list-ii.py)
 | 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/rotate-function.py)
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/search-a-2d-matrix-ii.py)
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/two-sum.py)
+
+### Databases
+| # | Question | Solution |
+|---| ----- | -------- |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [SQL](https://github.com/ken8203/leetcode/blob/master/databases/department-highest-salary.sql)
+
