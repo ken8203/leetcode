@@ -3,7 +3,7 @@
 ### Algorithms
 
 | # | Question | Solution |
-| --| ----------- | ------------- |
+|---| ----- | -------- |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/add-two-numbers.py)
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/happy-number.py)
 | 225 | [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/implement-stack-using-queues.py)
