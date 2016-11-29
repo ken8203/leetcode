@@ -14,7 +14,7 @@
 | 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/rotate-function.py)
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/search-a-2d-matrix-ii.py)
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/two-sum.py)
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python]((https://github.com/ken8203/leetcode/blob/master/algorithms/valid-parentheses.py)
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/valid-parentheses.py)
 
 ### Databases
 | # | Question | Solution |
