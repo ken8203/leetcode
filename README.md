@@ -15,6 +15,9 @@
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/search-a-2d-matrix-ii.py)
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/two-sum.py)
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/valid-parentheses.py)
+| 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/maximum-binary-tree.py)
+| 274 | [H-Index](https://leetcode.com/problems/h-index/description/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/h-index.py)
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/add-binary.py)
 
 ### Databases
 | # | Question | Solution |
