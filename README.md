@@ -18,6 +18,9 @@
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/maximum-binary-tree.py)
 | 274 | [H-Index](https://leetcode.com/problems/h-index/description/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/h-index.py)
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/add-binary.py)
+| 86 | [Partition List](https://leetcode.com/problems/partition-list/description/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/partition-list.py)
+| 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/longest-absolute-file-path.py)
+| 814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/binary-tree-pruning.py)
 
 ### Databases
 | # | Question | Solution |
