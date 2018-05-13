@@ -21,6 +21,9 @@
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/description/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/partition-list.py)
 | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/longest-absolute-file-path.py)
 | 814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/binary-tree-pruning.py)
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/intersection-of-two-linked-lists.py)
+| 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/description/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/single-number-iii.py)
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Python](https://github.com/ken8203/leetcode/blob/master/algorithms/merge-two-sorted-lists.py)
 
 ### Databases
 | # | Question | Solution |
